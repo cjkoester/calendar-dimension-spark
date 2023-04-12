@@ -1,5 +1,7 @@
-# Generate Calendar & Time Dimensions for the Lakehouse
-The included notebooks provide an easy and fast way to generate calendar and time dimensions for use in Data Lakehouses. The notebooks were developed in Databricks, and include versions for use in Workflows or Delta Live Tables (DLT).
+# Time at the Lakehouse
+Generate calendar & time dimensions for the lakehouse
+
+![Time at the Lakehouse banner](/img/time_at_the_lakehouse_banner.png "Time at the Lakehouse banner")
 
 **Features**
 -	Fast even with single-node clusters
